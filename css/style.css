@@ -38,6 +38,11 @@ body {
 	background-color:rgba(50,50,50,.3);
 	width:0%
 }
+#game img {
+	height:200px;
+	width:200px;
+	padding:10px;
+}
 #game img.egg {
 	height:200px;
 	width:200px;
